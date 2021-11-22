@@ -1,4 +1,5 @@
 # Fake Mode7 demo for pygame
+* warning: performance bad :(
 
 ## requirements: 
 * pygame 1.9.6 (pygame.org)
